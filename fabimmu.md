@@ -1,21 +1,27 @@
-# Fabi Montoya here!
+# Hello! Soy Fabi Montoya :rocket::crown:
 
-### :computer: Front-End Jr Developer [en proceso]
+### :computer: Front-End Jr Dev [en proceso]
 
-### :computer: Ingenieria en Sistemas Computacionales [en proceso]
+### :computer: Ing en Sistemas Computacionales [en proceso]
 
 #### Herramientas y lenguajes:
 
-- :black_circle: HTML
-- :black_circle: CSS
-- :black_circle: Javascript
-- :black_circle: PHP
-- :black_circle: MySQL
+- HTML
+- CSS
+- Javascript
+- PHP
+- MySQL
 
-Conocimiento muy basico en:
+#### Conocimiento muy basico en:
 
-*.Net
-*Laravel
-\*Python
+- .Net
+- Laravel
+- Python
 
-:satellite: Certificacion en **_CCNA1_** y **_CCNA2_**
+#### :satellite: Certificacion en **_CCNA1_** y **_CCNA2_**
+
+![Fabi GitHub stats](https://github-readme-stats.vercel.app/api?username=fabimmu&theme=material-palenight&show_icons=true)
+
+I love connecting with different people so if you want to say hi, I'll be happy to meet you!
+
+> ##### _#girlpower #itwomen #womeninstem #girlswhocode #womenwhocode #girlsintech #womenintechnology_
