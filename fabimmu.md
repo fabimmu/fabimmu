@@ -1,6 +1,6 @@
 # Hello! Soy Fabi Montoya :rocket::crown:
 
-### :computer: Front-End Jr Dev [en proceso]
+### :computer: Front-End Jr Dev [en proceso] <img src="https://static.vecteezy.com/ti/vecteur-libre/p3/227854-vecteur-de-developpeur-feminin-gratuit-vectoriel.jpg" width="200">
 
 ### :computer: Ing en Sistemas Computacionales [en proceso]
 
