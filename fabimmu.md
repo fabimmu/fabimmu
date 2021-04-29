@@ -32,6 +32,8 @@
 
 ![Fabi GitHub stats](https://github-readme-stats.vercel.app/api?username=fabimmu&theme=material-palenight&show_icons=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabimmu)](https://github.com/fabimmu/github-readme-stats)
+
 <img src="https://t4.ftcdn.net/jpg/02/94/27/81/360_F_294278154_VlUZuAtOprZWhAiAplmvBJg7grD85r9Q.jpg" width=100% height=10>
 
 I love connecting with different people so if you want to say hi, I'll be happy to meet you!
